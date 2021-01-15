@@ -1,0 +1,70 @@
+.container {
+  width: 500px;
+
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+.charts {
+  width: 540;
+  height: 400;
+  padding: 10px;
+  background-color: rgba(56, 56, 56, 0.3);
+
+  display: inline-block;
+  vertical-align: middle;
+}
+.charts2 {
+  width: 540;
+  height: 400;
+  padding: 10px;
+  background-color: rgba(56, 56, 56, 0.3);
+
+  display: inline-block;
+  vertical-align: middle;
+}
+.charts3 {
+  width: 540;
+  height: 400;
+  padding: 10px;
+  background-color: rgba(56, 56, 56, 0.3);
+
+  display: inline-block;
+  vertical-align: middle;
+}
+.charts3 > Button {
+  background-color: #ff7779;
+  color: white;
+  text-transform: inherit;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.charts3 > Button:hover {
+  background-color: white;
+  color: #ff7779;
+}
+.charts2 > Button {
+  background-color: #ff7779;
+  color: white;
+  text-transform: inherit;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.charts2 > Button:hover {
+  background-color: white;
+  color: #ff7779;
+}
+.charts > Button {
+  background-color: #ff7779;
+  color: white;
+  text-transform: inherit;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.charts > Button:hover {
+  background-color: white;
+  color: #ff7779;
+}

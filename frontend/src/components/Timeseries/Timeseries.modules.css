@@ -1,0 +1,28 @@
+.container {
+  width: 500px;
+  align-content: middle;
+  padding-right: 300px;
+}
+.charts {
+  width: 640;
+  height: 400;
+  padding: 10px;
+  background-color: rgba(56, 56, 56, 0.3);
+  position: relative;
+  display: inline-block;
+  align-content: middle;
+  display: grid;
+  grid-template-columns: auto;
+}
+.charts > Button {
+  background-color: #ff7779;
+  color: white;
+  text-transform: inherit;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.charts > Button:hover {
+  background-color: white;
+  color: #ff7779;
+}

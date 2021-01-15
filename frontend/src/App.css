@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /*background-color: rgb(33, 49, 60);*/
+}
+.term {
+  padding-top: 400px;
+  position: relative;
+}
+.pie-container {
+  position: relative;
+  height: 90px;
+  width: 20%;
+}
+.label {
+  color: white;
+  color: #b4886b;
+  font-weight: bold;
+  display: block;
+  width: 150px;
+  float: right;
+}
+.Button {
+  background-color: #ff7779;
+  color: white;
+  text-transform: inherit;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.lol {
+  color: white;
+  color: #b4886b;
+  font-weight: bold;
+  display: block;
+  width: 150px;
+  float: right;
+}

@@ -1,0 +1,95 @@
+/*.charts {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}*/
+.container {
+  width: 500px;
+
+  padding: 20px;
+  display: flex;
+}
+.chart {
+  width: 640;
+  height: 400;
+  padding: 10px;
+  background-color: #242526;
+
+  display: inline-block;
+  align-content: middle;
+}
+.charts2 {
+  width: 640;
+  height: 400;
+  padding: 10px;
+  background-color: #242526;
+
+  display: inline-block;
+  align-content: middle;
+}
+.charts3 {
+  width: 640;
+  height: 400;
+  padding: 10px;
+  background-color: #242526;
+
+  display: inline-block;
+  align-content: middle;
+}
+.chart > Button {
+  background-color: #ff7779;
+  color: white;
+  text-transform: inherit;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.chart > Button:hover {
+  background-color: white;
+  color: #ff7779;
+}
+.chart > label {
+  color: #b4886b;
+  font-weight: bold;
+  display: block;
+  width: 150px;
+  float: right;
+}
+
+.charts2 > label {
+  color: #b4886b;
+  font-weight: bold;
+  display: block;
+  width: 150px;
+  float: right;
+}
+.charts3 > label {
+  color: #b4886b;
+  font-weight: bold;
+  display: block;
+  width: 150px;
+  float: right;
+}
+.charts2 > Button {
+  background-color: #ff7779;
+  color: white;
+  text-transform: inherit;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.charts2 > Button:hover {
+  background-color: white;
+  color: #ff7779;
+}
+.charts3 > Button {
+  background-color: #ff7779;
+  color: white;
+  text-transform: inherit;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.charts3 > Button:hover {
+  background-color: white;
+  color: #ff7779;
+}
